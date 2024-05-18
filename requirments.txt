@@ -1,0 +1,11 @@
+os
+logging
+PyPDF2
+flask
+openai
+base64
+time
+dotenv  
+sqlite3
+json
+re
